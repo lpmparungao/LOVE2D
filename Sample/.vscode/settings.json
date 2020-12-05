@@ -1,0 +1,9 @@
+{
+    "Lua.diagnostics.globals": [
+        "player"
+    ],
+    "Lua.diagnostics.disable": [
+        "lowercase-global",
+        "undefined-global"
+    ]
+}
